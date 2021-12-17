@@ -29,9 +29,7 @@ Snippet from CSS:
 This Web Page has been revamped to have a user friendly interface, work effectively, and to adhere to accessibility standards.
 
 
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+* https://ellamoniz.github.io/HW1/
 
 ---
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
