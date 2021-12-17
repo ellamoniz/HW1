@@ -1,8 +1,9 @@
 # HW 1 accessibilty 
 
-Description: 
+# Description: 
 
-This project required me to work with a website that had several issues. Some of the HTML code was faulty, so links did not do their job. Some necessary accessibility requirements were not met, and the style.CSS was full of redundancy. So I debugged, added, and removed content to improve accesibilty. Thankfully, in all aspects of society, we are working on making most things more accessible, and that extends into technology. 
+This project required me to work with a website that had several issues. Some of the HTML code was faulty, so links did not do their job. Some necessary accessibility requirements were not met, and the style.CSS was full of redundancy. So I debugged, added, and removed content to improve accessibilty. Thankfully, in all aspects of society, we are working on making most things more accessible, and that extends into technology. 
+
 
 Walkthrough:
 
@@ -18,23 +19,14 @@ Snippet from CSS:
 ![Screen Shot 2021-12-16 at 7 32 41 PM](https://user-images.githubusercontent.com/95939304/146484937-e7d34981-a0ae-4e85-a00b-1d06c12c2dbc.png)
 
 
-
-
 ## Built With
     - HTML
     - CSS
+    - GitHub
 
+### Summary
 
-### User Story
-
-
-
-### Acceptance Criteria
-
-
-
-### Review
-
+This Web Page has been revamped to have a user friendly interface, work effectively, and to adhere to accessibility standards.
 
 
 * The URL of the deployed application.
