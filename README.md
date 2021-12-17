@@ -6,15 +6,18 @@ This project required me to work with a website that had several issues. Some of
 
 Walkthrough:
 
-https://user-images.githubusercontent.com/95939304/146482756-d44a6884-2cf5-49bb-b254-3a26507ff3f5.gif
+![HW 1 Website](https://user-images.githubusercontent.com/95939304/146485050-5d3e611d-9bb5-4e85-adc1-a85de171aefe.gif)
 
 Code Snippet:
 
-https://user-images.githubusercontent.com/95939304/146482878-a6c5e6b2-675a-4173-8e6d-979563facec6.png)
+![Screen Shot 2021-12-16 at 7 08 06 PM](https://user-images.githubusercontent.com/95939304/146482878-a6c5e6b2-675a-4173-8e6d-979563facec6.png)
+
 
 Snippet from CSS:
 
-https://user-images.githubusercontent.com/95939304/146484574-5020517f-954d-4a42-b161-a76a52302400.png
+![Screen Shot 2021-12-16 at 7 32 41 PM](https://user-images.githubusercontent.com/95939304/146484937-e7d34981-a0ae-4e85-a00b-1d06c12c2dbc.png)
+
+
 
 
 ## Built With
